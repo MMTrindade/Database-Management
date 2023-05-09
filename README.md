@@ -1,2 +1,2 @@
 # Database-Management
-Project developed during Master's in Computer Science and Engineering, for the subject Data Management in Information Systems. Project was developed using the tools: Microsoft SQL Server and Database Engine Tuning Advisor.
+Project developed during Master's in Computer Science and Engineering, for the subject Data Management in Information Systems. Project was developed using the tools: Microsoft SQL Server and Database Engine Tuning Advisor. The goal of this project was to assess and manipulate different information in the main Database, while optmizing the execution plans in SQL Server by creating proper indexes, statistics and materialized views, exploring the theory behing these optimizations.
